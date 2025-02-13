@@ -44,6 +44,8 @@ npm start
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/609eded4-3fc4-4a8e-9339-b3f870b8047e)
-![image](https://github.com/user-attachments/assets/b9cf5794-8246-4d03-8eba-4ff629197c74)
+![image](https://github.com/user-attachments/assets/8cf30516-68e9-43ec-8f73-d2637ddf4711)
+![image](https://github.com/user-attachments/assets/b3d43503-1ba9-4c23-95ee-daefb6b27645)
+![image](https://github.com/user-attachments/assets/9073012a-96b1-4049-b589-8faef5dd572b)
+![image](https://github.com/user-attachments/assets/5f645af7-297f-46ee-8faa-2bcc80b6b61a)
 
