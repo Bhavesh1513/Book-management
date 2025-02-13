@@ -25,7 +25,7 @@ A beautifully designed book management web application where users can browse, a
 1. Clone the repository:
 
    ```bash
-   https://github.com/Bhavesh1513/react-todo-.git
+   [https://github.com/Bhavesh1513/react-todo-.git](https://github.com/Bhavesh1513/Book-management.git)
    ```
 
 2. Install the required dependencies:
